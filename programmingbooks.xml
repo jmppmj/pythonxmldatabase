@@ -1,0 +1,170 @@
+<catalog>
+  <book>
+    <bookid>1</bookid>
+    <author>Barrett, Daniel J.</author>
+    <title>Linux Pocket Guide: Essential Commands</title>
+    <genre>Linux</genre>
+    <price>9.39</price>
+    <publish_date>2016</publish_date>
+    <isbn10>1491927577</isbn10>
+    <description>A pocket guide for using Linux.</description>
+  </book>
+  <book>
+    <bookid>2</bookid>
+    <author>Lutz, Mark</author>
+    <title>Python Pocket Reference: Python In Your Pocket</title>
+    <genre>Python</genre>
+    <price>9.29</price>
+    <publish_date>2014</publish_date>
+    <isbn10>1449357016</isbn10>
+    <description>A pocket guide for using Python.</description>
+  </book>
+  <book>
+    <bookid>3</bookid>
+    <author>Lutz, Mark</author>
+    <title>Learning Python</title>
+    <genre>Python</genre>
+    <price>20.16</price>
+    <publish_date>2013</publish_date>
+    <isbn10>1449355730</isbn10>
+    <description>A comprehensive, in-depth introduction to the core
+	  Python language.</description>
+  </book>
+  <book>
+    <bookid>4</bookid>
+    <author>McKinney, Wes</author>
+    <title>Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython</title>
+    <genre>Python</genre>
+    <price>18.13</price>
+    <publish_date>2017</publish_date>
+    <isbn10>1491957662</isbn10>
+    <description>This book is concerned with the nuts and bolts of
+	  manipulating, processing, cleaning, and crunching data in Python.</description>
+  </book>
+  <book>
+    <bookid>5</bookid>
+    <author>Beazley, David</author>
+    <title>Python Cookbook</title>
+    <genre>Python</genre>
+    <price>24.07</price>
+    <publish_date>2013</publish_date>
+    <isbn10>1449340377</isbn10>
+    <description>This book is aimed at more experienced Python
+	  programmers who are looking to deepen their understanding of
+	  the language and modern programming idioms. Much of the material
+	  focuses on some of the more advanced techniques used by libraries,
+	  frameworks, and applications.</description>
+  </book>
+  <book>
+    <bookid>6</bookid>
+    <author>Bader, Dan</author>
+    <title>Python Tricks: A Buffet of Awesome Python Features</title>
+    <genre>Python</genre>
+    <price>26.99</price>
+    <publish_date>2017</publish_date>
+    <isbn10>1775093301</isbn10>
+    <description>Python best practices and the power of
+	  beautiful and Pythonic code with simple examples and a
+	  step-by-step narrative.</description>
+  </book>
+  <book>
+    <bookid>7</bookid>
+    <author>Matthes, Eric</author>
+    <title>Python Crash Course: A Hands-On, Project-Based Introduction to Programming</title>
+    <genre>Python</genre>
+    <price>27.68</price>
+    <publish_date>2019</publish_date>
+    <isbn10>1593279280</isbn10>
+    <description>A fast-paced, no-nonsense guide to programming in Python.</description>
+  </book>
+  <book>
+    <bookid>8</bookid>
+    <author>Stroustrup, Bjarne</author>
+    <title>The C++ Programming Language</title>
+    <genre>C++</genre>
+    <price>26.32</price>
+    <publish_date>2013</publish_date>
+    <isbn10>0321563840</isbn10>
+    <description>Presents the C++11 language, standard library, and
+	  key design techniques as an integrated whole.</description>
+  </book>
+  <book>
+    <bookid>9</bookid>
+    <author>Meyers, Scott</author>
+    <title>Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14</title>
+    <genre>C++</genre>
+    <price>37.04</price>
+    <publish_date>2014</publish_date>
+    <isbn10>9781491903995</isbn10>
+    <description>Describes the effective application of
+	  C++11 and C++14.</description>
+  </book>
+  <book>
+    <bookid>10</bookid>
+    <author>O'Brien, Tim</author>
+    <title>Eloquent JavaScript: A Modern Introduction to Programming</title>
+    <genre>JavaScript</genre>
+    <price>26.23</price>
+    <publish_date>2018</publish_date>
+    <isbn10>1593279507</isbn10>
+    <description>Dives deep into the JavaScript language to show
+	  you how to write beautiful, effective code.</description>
+  </book>
+  <book>
+    <bookid>11</bookid>
+    <author>Bloch, Joshua</author>
+    <title>Effective Java</title>
+    <genre>Java</genre>
+    <price>17.55</price>
+    <publish_date>2018</publish_date>
+    <isbn10>0134685997</isbn10>
+    <description>Covers language and library features added in Java 7, 8, and 9,
+      including the functional programming constructs that were added to its
+      object-oriented roots.</description>
+  </book>
+  <book>
+    <bookid>12</bookid>
+    <author>Goetz, Brian</author>
+    <title>Java Concurrency in Practice</title>
+    <genre>Java</genre>
+    <price>36.98</price>
+    <publish_date>2006</publish_date>
+    <isbn10>0321349601</isbn10>
+    <description>Arms readers with both the theoretical underpinnings and concrete
+      techniques for building reliable, scalable, maintainable concurrent
+      applications.</description>
+  </book>
+  <book>
+    <bookid>13</bookid>
+    <author>Eckel, Bruce</author>
+    <title>Thinking in Java</title>
+    <genre>Java</genre>
+    <price>48.97</price>
+    <publish_date>2006</publish_date>
+    <isbn10>0131872486</isbn10>
+    <description>The classic object-oriented introduction for beginners and experts
+      alike.</description>
+  </book>
+  <book>
+    <bookid>14</bookid>
+    <author>McManus, Sean</author>
+    <title>Mission Python</title>
+    <genre>Python</genre>
+    <price>18.69</price>
+    <publish_date>2018</publish_date>
+    <isbn10>9781593278571</isbn10>
+    <description>Launch into coding with Mission Python, a space-themed guide to
+      building a complete computer game in Python.</description>
+  </book>
+  <book>
+    <bookid>15</bookid>
+    <author>Resig, John</author>
+    <title>Secrets of the JavaScript Ninja</title>
+    <genre>JavaScript</genre>
+    <price>42.74</price>
+    <publish_date>2016</publish_date>
+    <isbn10>1617292850</isbn10>
+    <description>Uses practical examples to clearly illustrate each core
+      JavaScript concept and technique.</description>
+  </book>
+</catalog>
