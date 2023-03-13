@@ -45,4 +45,4 @@ Please view powerpoint (<b>Databases.pptx</b> file in this GitHub) for further d
 
 ***
 
-<i>Note - GUI incomplete, requires additional work.</i>
+<i>Future Work: Improve GUI</i>
